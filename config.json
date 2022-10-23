@@ -1,0 +1,5 @@
+{
+	"command-prefix": "!",
+	"token": "<YOUR-BOT-TOKEN>",
+	"api-key": "<YOUR-API-KEY>"
+}
